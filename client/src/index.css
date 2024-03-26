@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Michroma&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(7, 7, 7);
+  font-family: Kdam Thmor Pro;
+}
